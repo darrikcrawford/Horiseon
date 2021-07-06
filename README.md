@@ -10,3 +10,6 @@ I was contracted to refactor and clean up the initial wedsite HTML and CSS files
 
 ## Website
 https://lernantino.github.io/run-buddy/
+
+## Screenshot
+![horiseon-screen-shot](https://user-images.githubusercontent.com/84691067/124542019-3d910f00-dde8-11eb-8b16-e357f5c9ae41.png)
