@@ -51,7 +51,7 @@ p {
     font-size: 16px;
 }
 
-/* Hero Style Start*/
+/* Hero Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,7 +61,7 @@ p {
     background-position: center;
 }
 
-/* Content Section Style Start*/
+/* Content Section Style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -96,7 +96,7 @@ p {
     font-size: 36px;
 }
 
-/* Benefits Style Start */
+/* Benefits Style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,7 +124,7 @@ p {
     max-width: 150px;
 }
 
-/* Footer Style Start */
+/* Footer Style  */
 footer {
     padding: 30px;
     clear: both;
